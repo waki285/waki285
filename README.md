@@ -1,7 +1,7 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
-**waki285/waki285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CyberRex0/CyberRex0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Statistics
+![waki285's github stats](https://github-readme-stats.vercel.app/api?username=waki285)
+
