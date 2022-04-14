@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/HTML5-E34F26?labelColor=black&logo=HTML5)
 ![](https://img.shields.io/badge/CSS3-1572B6?labelColor=black&logo=CSS3)
 
-### Hostings
+## Hostings
 ![](https://img.shields.io/badge/Heroku-430098?labelColor=black&logo=Heroku) 
 ![](https://img.shields.io/badge/Replit-667881?labelColor=black&logo=Replit) 
 ![](https://img.shields.io/badge/Vercel-ffffff?labelColor=black&logo=Vercel) 
